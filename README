@@ -3,11 +3,25 @@ This repository contains notebooks to plot some of the figures associated with t
 "Synergy and oxygen adaptation for development of next-generation probiotics"
 
 Authors: Muhammed Tanweer Khan1,2*, Chinmay Dwibedi1,3*, Daniel Sundh4, Meenakshi Pradhan1, Jamie D Kraft1, Robert Caesar1, Valentina Tremaroli1,#, Mattias Lorentzon4,5,6#, Fredrik Bäckhed1,7,8#
+
 *; # contributed equally to this work
 
+1 Wallenberg Laboratory, Department of Molecular and Clinical Medicine, Institute of Medicine, University of Gothenburg, Gothenburg, Sweden
+2 Metabogen AB, AZ BioVentureHub, HE424, c/o AstraZeneca R&D Mölndal, 431 83 Mölndal,Sweden
+3 Institute of Neuroscience and Physiology, University of Gothenburg, Gothenburg, Sweden
+4 Sahlgrenska Osteoporosis Centre, Department of Internal Medicine and Clinical Nutrition,Institute of Medicine, University of Gothenburg, Sweden.
+5 Region Västra Götaland, Geriatric Medicine Clinic, Sahlgrenska University Hospital Mölndal
+6 Mary MacKillop Institute for Health Research, Australian Catholic University, Melbourne, VIC,Australia.
+7 Region Västra Götaland, Sahlgrenska University Hospital, Department of Clinical Physiology, Gothenburg, Sweden
+8 Novo Nordisk Foundation Center for Basic Metabolic Research, Faculty of Health Sciences, University of Copenhagen, Copenhagen, Denmark
+
 Correspondence: Fredrik@wlab.gu.se
+
 Code contributions by: Chinmay Dwibedi
 
 Contents:
 The rdata files contains source data objects, rmd files with source codes and unedited plots in pdf - reproducible with the source code and source data.
 All files are named according to the plot names from the manuscript. 
+
+Metagenome and genome assemblies are available at ENA, study id: PRJEB62463
+For further details on methods, and results please follow the article.
